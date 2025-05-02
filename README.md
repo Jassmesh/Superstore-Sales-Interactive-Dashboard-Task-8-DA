@@ -43,7 +43,7 @@ All visuals are color-coded to emphasize top-performing segments.
 
 ## 📸 Screenshot
 
-![Dashboard Screenshot](./dashboard_screenshot.png)
+![Dashboard Screenshot](./Superstore_dashboard.png)
 
 ---
 
